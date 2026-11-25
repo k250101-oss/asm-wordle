@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADEEL\\Desktop\\University Study - Sem 03\\COAL - Lab\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1D9C3E-8B72-4F10-9E15-D27E6A8F0B41}|Wordle.vcxproj|C:\\Users\\ADEEL\\Desktop\\University Study - Sem 03\\COAL - Lab\\Project\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4A1D9C3E-8B72-4F10-9E15-D27E6A8F0B41}|Wordle.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\ADEEL\\Desktop\\University Study - Sem 03\\COAL - Lab\\Project\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\ADEEL\\Desktop\\University Study - Sem 03\\COAL - Lab\\Project\\main.asm",
+              "RelativeToolTip": "main.asm",
+              "ViewState": "AgIAAIsFAAAAAAAAAAAAAJgFAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-25T06:21:26.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
